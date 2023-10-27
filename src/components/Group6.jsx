@@ -14,7 +14,7 @@ const Group6 = () => {
           amet.
         </p>
       </div>
-      <div className='bg-[#D27722] w-[85px] h-[85px] xl:left-[510px] rounded-full p-[17px] flex ml-[135px] mb-[20px] relative top-[110px] left-[15px] lg:left-[330px]'><img src='../../images/image 21.png' className=''/></div>
+      <div className='bg-[#D27722] w-[85px] h-[85px] xl:left-[510px] rounded-full p-[17px] flex ml-[135px] mb-[20px] relative top-[110px] left-[15px] lg:left-[330px]'><img src={'/static/images/image 21.png'} className=''/></div>
       <svg className="relative -top-[10px] left-[210px] xl:left-[700px] lg:left-[520px]" xmlns="http://www.w3.org/2000/svg" width="36" height="28" viewBox="0 0 36 28" fill="none">
         <path d="M0.992933 2.1303C0.992933 2.1303 15.7094 2.36661 23.1657 7.74415C31.0684 13.4435 33.6294 27.4856 33.6294 27.4856" stroke="#D27722" stroke-width="4"/>
       </svg>
@@ -29,7 +29,7 @@ const Group6 = () => {
 
 
       <div>
-        <img src="../../images/Rectangle 27.png" className="w-[380px] h-[281px] xl:w-[450px] xl:mr-[100px] xl:mt-[90px] xl:h-[400px] xl:rounded-[30px] lg:w-[980px] lg:h-[600px] lg:rounded-[30px]" />
+        <img src={"/static/images/Rectangle 27.png"} className="w-[380px] h-[281px] xl:w-[450px] xl:mr-[100px] xl:mt-[90px] xl:h-[400px] xl:rounded-[30px] lg:w-[980px] lg:h-[600px] lg:rounded-[30px]" />
       </div>
 
 
@@ -43,21 +43,21 @@ const Group6 = () => {
           </div>
         <div className="w-[326px] h-[87px] xl:h-[50px] justify-center items-start gap-2 inline-flex m-[21px] xl:w-[600px] lg:w-[600px]">
             <div className="pt-[3px] justify-start items-start gap-2.5 flex">
-                <img className="w-[22px] h-[22px] xl:-mt-[20px]" src="../../images/image 22.png" />
+                <img className="w-[22px] h-[22px] xl:-mt-[20px]" src={"/static/images/image 22.png"} />
             </div>
         <div className="grow shrink basis-0 font-bold xl:w-[600px] xl:-mt-[20px]">Build Your Brand<span className="font-normal"> Showcase your culinary skills and build your brand within our community.</span></div>
         </div>
 
         <div className="w-[326px] h-[87px] xl:h-[50px] justify-center items-start gap-2 inline-flex m-[21px] -mt-[20px] xl:w-[600px] lg:w-[600px]">
             <div className="pt-[3px] justify-start items-start gap-2.5 flex">
-                <img className="w-[22px] h-[22px]" src="../../images/image 22.png" />
+                <img className="w-[22px] h-[22px]" src={"/static/images/image 22.png"} />
             </div>
         <div className="grow shrink basis-0 font-bold">Expand Your Reach<span className="font-normal"> Connect with cooking enthusiasts across the globe and expand your audience beyond geographical limits.</span></div>
         </div>
 
         <div className="w-[326px] h-[87px] xl:h-[50px] justify-center items-start gap-2 inline-flex m-[21px] xl:w-[600px] lg:w-[600px]">
             <div className="pt-[3px] justify-start items-start gap-2.5 flex xl:-mt-[20px]">
-                <img className="w-[22px] h-[22px]" src="../../images/image 22.png" />
+                <img className="w-[22px] h-[22px]" src={"/static/images/image 22.png"} />
             </div>
         <div className="grow shrink basis-0 font-bold xl:-mt-[20px]">Grow Your Business Faster<span className="font-normal"> Utilize our platform's features and resources to accelerate your growth and increase your income.</span></div>
         </div>
