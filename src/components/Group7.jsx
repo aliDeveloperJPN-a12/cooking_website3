@@ -3,7 +3,7 @@ import React from "react";
 const Group7 = () => {
   return (
     <div className="w-full bg-[#D27722] lg:flex xl:w-[1300px] xl:ml-[35px] xl:rounded-[30px]">
-      <img src="../../images/Rectangle 28.png" className="h-[350px] w-full lg:w-[400px] lg:h-[600px] lg:ml-[20px] xl:-ml-[5px] lg:mt-[20px] xl:mt-[0px] lg:rounded-[20px] xl:rounded-[30px]" />
+      <img src={"/static/images/Rectangle 28.png"} className="h-[350px] w-full lg:w-[400px] lg:h-[600px] lg:ml-[20px] xl:-ml-[5px] lg:mt-[20px] xl:mt-[0px] lg:rounded-[20px] xl:rounded-[30px]" />
 
 
       <div>
@@ -25,7 +25,7 @@ const Group7 = () => {
           <div className="pt-[3px] justify-start items-start gap-2.5 flex">
             <img
               className="w-[22px] h-[22px]"
-              src="../../images/image 23.png"
+              src={"/static/images/image 23.png"}
             />
           </div>
           <div className="grow shrink basis-0 font-bold text-white">
@@ -42,7 +42,7 @@ const Group7 = () => {
           <div className="pt-[3px] justify-start items-start gap-2.5 flex">
             <img
               className="w-[22px] h-[22px]"
-              src="../../images/image 23.png"
+              src={"/static/images/image 23.png"}
             />
           </div>
           <div className="grow shrink basis-0 font-bold text-white">
@@ -59,7 +59,7 @@ const Group7 = () => {
           <div className="pt-[3px] justify-start items-start gap-2.5 flex">
             <img
               className="w-[22px] h-[22px]"
-              src="../../images/image 23.png"
+              src={"/static/images/image 23.png"}
             />
           </div>
           <div className="grow shrink basis-0 font-bold text-white">
