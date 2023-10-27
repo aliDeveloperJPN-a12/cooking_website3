@@ -14,7 +14,7 @@ const Group1 = () => {
         <div className="bg-[#D27722] w-[44px] h-[44px] rounded-[10px] p-[9px]  sm:hidden">
           <img
             className="w-[25px] h-[25px] cursor-pointer"
-            src="../../images/hamber_logo.jpg"
+            src={"/static/images/hamber_logo.jpg"}
           />
         </div>
         <div className="hidden lg:flex">
@@ -45,7 +45,7 @@ const Group1 = () => {
       {/* profile banner */}
       <div className="border border-[#FFDBB8] rounded-xl h-[170px] w-[300px] bg-[#FFFDF4] relative top-[220px] lg:top-[500px] left-[40px] p-[10px] xl:hidden">
             <div className="w-[277px] h-[67px] flex flex-wrap">
-                    <img className="ml-[10px]" src={"../../images/Rectangle 14.png"}></img>
+                    <img className="ml-[10px]" src={"/static/images/Rectangle 14.png"}></img>
                     <div className="ml-[20px]">
                         <p className="font-bold mt-[5px]">David Mitchell</p>
                         <div className="flex flex-wrap">
@@ -74,7 +74,7 @@ const Group1 = () => {
                 <p className="xl:text-start mt-[250px] text-[30px] font-bold w-[360px] lg:w-[800px] text-center lg:mt-[500px] lg:text-[50px] lg:ml-[100px] xl:w-[600px] xl:ml-[0px] xl:mt-[0px]">Master the Art of Cooking with <span className="text-[#D27722]">Experts</span> Worldwide</p>
                 <p className="text-center mt-[10px] lg:w-[800px] xl:w-[600px] lg:ml-[100px] xl:ml-[0px] xl:text-start">Experience the joy of cooking in a whole new way with our engaging online cooking classes. Learn from the chefs, share your unique culinary knowledge, and join our growing foodie community. With COOK, learning, and teaching becomes a shared passion.</p>
                 <div className="flex flex-wrap  mt-[20px] lg:ml-[380px] xl:ml-[0px] ml-[40px]">
-                    <img className="ml-[65px] xl:ml-[0px]" src="../../images/play-circle.svg"></img>
+                    <img className="ml-[65px] xl:ml-[0px]" src={"/static/images/play-circle.svg"}></img>
                     <p className="font-bold ml-[10px] xl:hidden">Watch a video</p>
                     <p className="font-bold ml-[10px] hidden xl:block">Learn more in the COOK video</p>
                 </div>
