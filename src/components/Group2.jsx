@@ -30,11 +30,11 @@ const Group2 = () => {
     
 <div className="p-[20px] m-[20px] bg-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 10.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 10.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[150px]">
                     <p className="font-bold text-white -mt-[3px]">Bakery</p>
-                    <img src="../../images/image 11.png" className="w-[24px] h-[24px]"/>
+                    <img src={"/static/images/image 11.png"} className="w-[24px] h-[24px]"/>
                     </div>
                     <p className="w-[220px] text-white text-[15px]">Master baking: from rustic bread to delicate pastries</p>
                 </div>
@@ -43,7 +43,7 @@ const Group2 = () => {
 
         <div className="p-[20px] m-[20px] border border-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 12.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 12.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[80px]">
                     <p className="font-bold  -mt-[3px]">Vegan Cooking</p>
@@ -62,7 +62,7 @@ const Group2 = () => {
 
         <div className="p-[20px] m-[20px] border border-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 13.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 13.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[75px]">
                     <p className="font-bold  -mt-[3px]">Seafood Mastery</p>
@@ -81,7 +81,7 @@ const Group2 = () => {
 
         <div className="p-[20px] m-[20px] border border-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 14.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 14.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[85px]">
                     <p className="font-bold  -mt-[3px]">BBQ & Grilling</p>
@@ -100,7 +100,7 @@ const Group2 = () => {
 
         <div className="p-[20px] m-[20px] border border-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 15.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 15.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[100px]">
                     <p className="font-bold  -mt-[3px]">Wine Pairing</p>
@@ -119,7 +119,7 @@ const Group2 = () => {
         
         <div className="p-[20px] m-[20px] border border-[#D27722] rounded-xl">
             <div className="flex flex-wrap">
-                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src="../../images/image 16.png"/></div>
+                <div className="w-[50px] h-[52px] mr-[25px] -ml-[10px]"><img src={"/static/images/image 16.png"}/></div>
                 <div className="">
                     <div className="flex flex-wrap space-x-[70px]">
                     <p className="font-bold  -mt-[3px]">Cake Decorating</p>
