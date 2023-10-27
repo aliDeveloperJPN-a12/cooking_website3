@@ -15,7 +15,7 @@ const Group5 = () => {
     <div className='xl:flex'>
         <div>
         <span className='bg-[#D27722] lg:p-[15px] rounded-[10px] text-white text-[50px] lg:px-[40px] absolute lg:left-[20px] lg:top-[4420px] xl:top-[2550px] xl:ml-[60px] hidden lg:block'>1</span>
-        <img src='../../images/Rectangle 24.png' className=' lg:w-[790px] lg:h-[500px] lg:ml-[130px] lg:mt-[70px] ml-[20px] mt-[20px] xl:w-[600px]' />
+        <img src={'/static/images/Rectangle 24.png'} className=' lg:w-[790px] lg:h-[500px] lg:ml-[130px] lg:mt-[70px] ml-[20px] mt-[20px] xl:w-[600px]' />
         </div>
         <div className='m-[25px] xl:ml-[80px] xl:mt-[120px]'>
             <p className='text-[30px] font-bold mt-[20px] mb-[10px]'>Explore Our Culinary Experts</p>
@@ -27,7 +27,7 @@ const Group5 = () => {
     <div className='xl:flex xl:flex-row-reverse'>
         <div className=''>
             <div className='bg-[#D27722] lg:p-[15px] rounded-[10px] text-white text-[50px] lg:px-[40px] absolute lg:ml-[20px] lg:-mt-[90px] xl:mt-[150px]  hidden lg:block'>2</div>
-            <img src='../../images/Rectangle 25.png' className='h-[254px] mt-[70px] lg:w-[790px] lg:h-[500px] lg:ml-[130px] xl:ml-[0px] lg:mt-[200px] w-[380px]' />
+            <img src={'/static/images/Rectangle 25.png'} className='h-[254px] mt-[70px] lg:w-[790px] lg:h-[500px] lg:ml-[130px] xl:ml-[0px] lg:mt-[200px] w-[380px]' />
         </div>
         <div className='m-[25px] xl:ml-[80px] xl:mt-[120px]'>
             <p className='text-[30px] font-bold mt-[20px] mb-[10px] xl:mt-[80px]'>Select Your Perfect Match</p>
@@ -38,7 +38,7 @@ const Group5 = () => {
     <div className='xl:flex'>
     <div>
         <div className='bg-[#D27722] lg:p-[15px] rounded-[10px] text-white text-[50px] lg:px-[40px] absolute lg:ml-[20px] lg:-mt-[10px]  hidden lg:block xl:mt-[50px] xl:ml-[90px]'>3</div>
-        <img src='../../images/Rectangle 26.png' className='h-[254px] mt-[70px] lg:w-[790px] lg:h-[500px] lg:ml-[130px] lg:mt-[0px] xl:w-[600px]' />
+        <img src={'/static/images/Rectangle 26.png'} className='h-[254px] mt-[70px] lg:w-[790px] lg:h-[500px] lg:ml-[130px] lg:mt-[0px] xl:w-[600px]' />
     </div>
         <div className='m-[25px] lg:ml-[70px]'>
             <p className='text-[30px] font-bold mt-[20px] mb-[10px] xl:mt-[0px]'>Enjoy Your Interactive Lesson</p>
