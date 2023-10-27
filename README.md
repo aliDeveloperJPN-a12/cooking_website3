@@ -1,6 +1,6 @@
 # React + Vite
 
-display noline : ('https://cooking-website3.vercel.app/')
+display online : ('https://cooking-website3.vercel.app/')
 
 ![image](https://github.com/aliDeveloperJPN-a12/cooking_website3/assets/115926291/f738658c-1b7e-497a-a2b7-6c160d14e0d7)
 
