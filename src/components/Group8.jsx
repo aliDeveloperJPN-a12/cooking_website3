@@ -25,7 +25,7 @@ const Group8 = () => {
 
 <div className='lg:flex lg:flex-wrap lg:ml-[125px]'>
     <div className='w-[320px] mt-[40px] m-[30px] rounded-lg border border-[#D27722]'>
-            <img src='../../images/Rectangle 29.png' className='rounded-lg'/>
+            <img src={'/static/images/Rectangle 29.png'} className='rounded-lg'/>
             <div className='flex flex-wrap p-[10px]'>
                 <svg className='mt-[10px] mr-[5px]' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                     <path d="M19 4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H19C20.1046 22 21 21.1046 21 20V6C21 4.89543 20.1046 4 19 4Z" stroke="#D27722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -40,7 +40,7 @@ const Group8 = () => {
 
 
         <div className='w-[320px] mt-[40px] m-[30px] rounded-lg border border-[#D27722]'>
-            <img src='../../images/Rectangle 30.png' className='rounded-lg'/>
+            <img src={'/static/images/Rectangle 30.png'} className='rounded-lg'/>
             <div className='flex flex-wrap p-[10px]'>
                 <svg className='mt-[10px] mr-[5px]' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                     <path d="M19 4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H19C20.1046 22 21 21.1046 21 20V6C21 4.89543 20.1046 4 19 4Z" stroke="#D27722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -54,7 +54,7 @@ const Group8 = () => {
         </div>
 
         <div className='w-[320px] mt-[40px] m-[30px] rounded-lg border border-[#D27722]'>
-            <img src='../../images/Rectangle 29.png' className='rounded-lg'/>
+            <img src={'/static/images/Rectangle 29.png'} className='rounded-lg'/>
             <div className='flex flex-wrap p-[10px]'>
                 <svg className='mt-[10px] mr-[5px]' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                     <path d="M19 4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H19C20.1046 22 21 21.1046 21 20V6C21 4.89543 20.1046 4 19 4Z" stroke="#D27722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -69,7 +69,7 @@ const Group8 = () => {
 
 
         <div className='w-[320px] mt-[40px] m-[30px] rounded-lg border border-[#D27722]'>
-            <img src='../../images/Rectangle 30.png' className='rounded-lg'/>
+            <img src={'/static/images/Rectangle 30.png'} className='rounded-lg'/>
             <div className='flex flex-wrap p-[10px]'>
                 <svg className='mt-[10px] mr-[5px]' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                     <path d="M19 4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H19C20.1046 22 21 21.1046 21 20V6C21 4.89543 20.1046 4 19 4Z" stroke="#D27722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
